@@ -1,0 +1,43 @@
+div{
+    margin: auto;
+    width: 50%;
+    height:100%;
+    background-color: cornsilk;
+            }
+.jan {
+    padding: 2%;
+    width: 100%;
+    height: 1%;
+    background-color: darkblue;
+}
+span {
+    text-align: left;
+    margin-left: 230px;
+    
+    color: darkblue;
+}
+p{
+    color: darkblue;
+    text-align: left;
+    margin-left: 1rem;
+    margin: 2rem;
+}
+h2{
+    text-align: center;
+    color: floralwhite;
+}
+.war{
+    margin-left: 400px;
+    border-color: darkblue;
+    color: darkblue;
+    width: 20%;
+    
+}
+.war:hover {
+    background-color:palevioletred;
+}
+
+.rate{
+    width: 5%;
+    margin-left: 30px;
+}
